@@ -8,21 +8,18 @@
 
   <br />
   
-I'm a full-stack developer with 8 years of experience in building dynamic web applications. 
-I’m currently on the lookout for new opportunities and am excited to bring my skills to a team where I can contribute to innovative projects.
-If anyone knows of any openings or is interested in collaborating, feel free to reach out! I'm open to both full-time positions and freelance gigs.
-Looking forward to connecting with you all!
-Feel free to contact me, my DM is open.
+I'm a Passionate Full-Stack Developer with 7 years of experience in building dynamic web applications.
+I have built so many web applications using modern JavaScript Frameworks.
 
 TECHNICAL SKILLS:
-Backend Development: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture
-Frontend Development: React.js, Redux, Next, Vue, Angular, Gatsby,Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component.
-Databases: MongoDB, MySQL, PostgreSQL, Redis
-Version Control: Git, GitHub, Bitbucket
-Security: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
-Testing & Debugging: Jest, Mocha, Chai, Cypress, Postman
-DevOps & CI/CD: Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
-Others: WebSockets, Asynchronous Programming, API Integration, Agile/Scrum Methodologies
+**Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture
+**Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component.
+**Databases**: MongoDB, MySQL, PostgreSQL, Redis
+**Version Control**: Git, GitHub, Bitbucket
+**Security**: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
+**Testing & Debugging**: Jest, Mocha, Chai, Cypress, Postman
+**DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
+**Others**: WebSockets, Asynchronous Programming, API Integration, Agile/Scrum Methodologies
 
 <br />
 
