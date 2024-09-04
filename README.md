@@ -8,17 +8,21 @@
 
   <br />
   
-Hi, I'm a Senior Full Stack Blockchain Developer, with outstanding experience in various fields, such as web and cryptocurrency.
+I'm a full-stack developer with 8 years of experience in building dynamic web applications. 
+I’m currently on the lookout for new opportunities and am excited to bring my skills to a team where I can contribute to innovative projects.
+If anyone knows of any openings or is interested in collaborating, feel free to reach out! I'm open to both full-time positions and freelance gigs.
+Looking forward to connecting with you all!
+Feel free to contact me, my DM is open.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js.
-
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Ethereum, Solana, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I have developing sites using React, Nextjs, Laravel, WordPress, and Node/Express, Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React and Next.
-
-I had already built so many Websites with the mentioned skill.
+TECHNICAL SKILLS:
+Backend Development: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture
+Frontend Development: React.js, Redux, Next, Vue, Angular, Gatsby,Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component.
+Databases: MongoDB, MySQL, PostgreSQL, Redis
+Version Control: Git, GitHub, Bitbucket
+Security: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
+Testing & Debugging: Jest, Mocha, Chai, Cypress, Postman
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
+Others: WebSockets, Asynchronous Programming, API Integration, Agile/Scrum Methodologies
 
 <br />
 
