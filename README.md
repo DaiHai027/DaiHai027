@@ -12,14 +12,14 @@ I'm a Passionate Full-Stack Developer with 7 years of experience in building dyn
 I have built so many web applications using modern JavaScript Frameworks.
 
 TECHNICAL SKILLS:
-**Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture
-**Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component.
-**Databases**: MongoDB, MySQL, PostgreSQL, Redis
-**Version Control**: Git, GitHub, Bitbucket
-**Security**: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection
-**Testing & Debugging**: Jest, Mocha, Chai, Cypress, Postman
-**DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS)
-**Others**: WebSockets, Asynchronous Programming, API Integration, Agile/Scrum Methodologies
+**Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture <br /> 
+**Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component. <br />
+**Databases**: MongoDB, MySQL, PostgreSQL, Redis <br />
+**Version Control**: Git, GitHub, Bitbucket <br />
+**Security**: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection <br />
+**Testing & Debugging**: Jest, Mocha, Chai, Cypress, Postman <br />
+**DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitLab CI, AWS (EC2, S3, Lambda, RDS) <br />
+**Others**: WebSockets, Asynchronous Programming, API Integration, Agile/Scrum Methodologies <br />
 
 <br />
 
