@@ -5,7 +5,7 @@
 I'm a Passionate Full-Stack Developer with 7 years of experience in building dynamic web applications.
 I have built so many web applications using modern JavaScript Frameworks.
 
-TECHNICAL SKILLS:
+TECHNICAL SKILLS:<br /> 
 **Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture <br /> 
 **Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component. <br />
 **Databases**: MongoDB, MySQL, PostgreSQL, Redis <br />
