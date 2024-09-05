@@ -2,7 +2,7 @@
 
   <br />
   
-I'm a Passionate Full-Stack Developer with 7 years of experience in building dynamic web applications.
+I'm a Passionate Full-Stack Developer with 7 years of experience in building dynamic web applications.<br />
 I have built so many web applications using modern JavaScript Frameworks.
 
 TECHNICAL SKILLS:<br /> 
