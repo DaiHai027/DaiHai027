@@ -7,7 +7,7 @@ I have built so many web applications using modern JavaScript Frameworks.
 
 TECHNICAL SKILLS:<br /> 
 **Backend Development**: Node.js, Express.js, RESTful APIs, GraphQL,GROQ, Microservices, Serverless Architecture <br /> 
-**Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, ghost...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component. <br />
+**Frontend Development**: React.js, Redux, Next, Vue, Angular, Gatsby, Headless CMS(contentful, sanity, strapi, hubspot...) HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, SASS, Tailwind CSS, Material UI, Styled-Component. <br />
 **Databases**: MongoDB, MySQL, PostgreSQL, Redis <br />
 **Version Control**: Git, GitHub, Bitbucket <br />
 **Security**: JWT, OAuth2, Data Encryption, Secure API Design, XSS/CSRF Protection <br />
